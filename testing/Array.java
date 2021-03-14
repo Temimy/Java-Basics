@@ -1,5 +1,5 @@
 package testing;
-// remove checking
+ 
 public class Array {
 
 	public static void main(String[] args) {
