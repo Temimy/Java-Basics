@@ -1,5 +1,5 @@
 package testing;
-// checking git and git hub
+// remove checking git and git hub
 public class Array {
 
 	public static void main(String[] args) {
