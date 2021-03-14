@@ -1,5 +1,5 @@
 package testing;
-
+// checking git and github
 public class Array {
 
 	public static void main(String[] args) {
