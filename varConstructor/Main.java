@@ -14,7 +14,7 @@ public class Main {
 		
 		// new constructor with new variables
 		VarConstructor name2 = new VarConstructor(15,"Fotha");
-		name.show();
+		name2.show();
 
 	}
 
