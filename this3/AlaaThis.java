@@ -14,7 +14,7 @@ public class AlaaThis {
 		
 	public AlaaThis(int num, String name, String dept) {
 		// using pre-defined arguments
-		// calli
+		// call
 		this(num,name);
 
 		this.dept = dept;
